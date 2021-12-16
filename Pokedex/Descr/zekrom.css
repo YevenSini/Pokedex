@@ -1,0 +1,45 @@
+.PP {
+	border: solid black;
+    border-radius: 5px;
+	height: auto;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.nom{
+	text-align: center;
+	font-weight: bold;
+}
+.img1{
+	width: 150px;
+	margin-top: 100px;
+}
+.PP, input{
+	
+	border: solid black;
+	background: linear-gradient(to right, #3f37c9, #ffd60a);
+	border-radius: 5px;
+	height: auto;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.PP p{
+	color: black;
+	
+}
+h1{
+	text-align: center;
+	color: white;
+}
+body{
+	background-image: url("file:///home/rsma09/Images/zekromeletr_29561dcc12810469.jpg");
+	background-size: cover;
+
+
+}
+.text{
+	
+	width: 250px;
+}

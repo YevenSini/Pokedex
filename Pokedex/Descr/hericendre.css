@@ -1,0 +1,73 @@
+.F {
+	border: solid black;
+	background-color: red;
+	border-radius: 5px;
+	height: auto;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.nom{
+	text-align: center;
+	font-weight: bold;
+}
+.img1{
+	width: 150px;
+	margin-top: 100px;
+}
+.PP, input{
+	
+	border: solid black;
+	background-color: red;
+	border-radius: 5px;
+	height: auto;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+.PP1 {
+	border: solid black;
+	background-color: red;
+	border-radius: 5px;
+	float: left;
+	
+	margin: 0px 50px 0px 250px ;
+
+	
+}
+
+
+.PP2 {
+	border: solid black;
+	background: red;
+		border-radius: 5px;
+float: right;
+margin: 0px 250px 0px 50px ;
+
+
+}
+
+
+
+
+.PP p{
+	color: black;
+	
+}
+h1{
+	text-align: center;
+	color: black;
+}
+body{
+background-image: url("file:///home/rsma09/T%C3%A9l%C3%A9chargements/7d31a7f759d99c1f_5fc519194cac431eaf6c8963-removebg-preview.png"), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHWf9nkFWVK-Rs48gidFbpuXwVL3L1ATDVPw&usqp=CAU");	
+background-size: cover;
+   
+
+}
+.text{
+	
+	width: 250px;
+}
